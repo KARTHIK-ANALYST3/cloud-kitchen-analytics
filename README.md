@@ -22,9 +22,10 @@ End-to-end data analytics project on a cloud kitchen business using **Excel, SQL
 
 ## 📊 Key Insights
 
-- Insight 1
-- Insight 2
-- Insight 3
+- Zomato is the top revenue channel, contributing ₹4.43L (51%) of total sales, followed by Swiggy and Direct orders.
+- Starters is the best-performing category, generating over ₹5.4L in sales and ₹1.6L in profit — more than half of total revenue.
+- Total revenue for FY 2024-25 was ₹8.68L across 1,844 orders, with a 7.7% cancellation rate.
+- Evening hours (4 PM–9 PM) see the highest order volume, consistent with the snack-focused menu.
 
 ## 📌 About
 
