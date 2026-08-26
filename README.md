@@ -10,9 +10,14 @@ End-to-end data analytics project on a cloud kitchen business using Excel, SQL, 
 | `SQL_Queries_CloudKitchen.docx` | SQL queries used for data analysis, with screenshots of outputs |
 | `cloud_kitchen.pbix` | Power BI dashboard file with interactive visuals |
 | `customers.xlsx` | Raw customer data |
+
 | `menu.xlsx` | Raw menu data |
 | `orders.xlsx` | Raw orders data |
 | `order_item.xlsx` | Raw order line-item data |
+<img width="898" height="498" alt="Screenshot 2026-08-26 221650" src="https://github.com/user-attachments/assets/f141eaf9-702d-4464-9fad-a58fbb12e2e3" />
+<img width="905" height="571" alt="Screenshot 2026-08-25 194222" src="https://github.com/user-attachments/assets/46b146a7-9398-433b-9679-add98f8d8cb3" />
+
+
 
 ## 🛠 Tools Used
 
