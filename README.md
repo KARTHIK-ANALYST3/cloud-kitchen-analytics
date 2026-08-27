@@ -11,16 +11,16 @@ End-to-end data analytics project on a cloud kitchen business using Excel, SQL, 
 ## 📁 Project Files
 
 | File | Description |
-|------|-------------|
-| [Cloud_Kitchen_Analysis.xlsx](Cloud_Kitchen_Analysis.xlsx) | Main analysis file in Excel with Pivot Tables, Charts, and data models |
-| [RAW DATA.xlsx](RAW%20DATA.xlsx) | Source file containing raw sheets (customers, menu, order, order_id) |
-| [SQL_Queries_CloudKitchen.docx](SQL_Queries_CloudKitchen.docx) | Word document containing 18 SQL queries for data verification and business analysis |
-| [cloud_kitchen.powerbi.pbix](cloud_kitchen.powerbi.pbix) | Power BI dashboard file with interactive visuals |
+|---|---|
+| [📊 Cloud_Kitchen_Analysis.xlsx](Cloud_Kitchen_Analysis.xlsx) | Main analysis file in Excel with Pivot Tables, Charts, and data models |
+| [🗃️ RAW DATA.xlsx](RAW%20DATA.xlsx) | Immutable source file containing raw sheets (customers, menu, order, order_id) |
+| [📝 SQL_Queries_CloudKitchen.docx](SQL_Queries_CloudKitchen.docx) | Word document containing 18 SQL queries written for data verification and business analysis |
+| [📉 cloud_kitchen.powerbi.pbix](cloud_kitchen.powerbi.pbix) | Production-ready Power BI dashboard file featuring interactive visuals |
 
 ## 🛠 Tools Used
 
 - **Excel** — Data cleaning, Pivot Tables, Charts
-- **SQL** — Querying and data analysis (Oracle)
+- **SQL** — Querying and data analysis
 - **Power BI** — Interactive dashboard and visualization
 
 ## 📊 Key Insights
@@ -32,4 +32,4 @@ End-to-end data analytics project on a cloud kitchen business using Excel, SQL, 
 
 ## 📌 About
 
-This project analyzes one year of real operational data from a cloud kitchen business, covering customer behavior, menu performance, and order patterns to support data-driven business decisions.
+This project analyzes one year of real operational data from a cloud kitchen business I ran, covering customer behavior, menu performance, and order patterns to support data-driven business decisions.
